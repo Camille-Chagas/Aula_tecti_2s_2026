@@ -3,3 +3,5 @@
 nome = input("Digite seu nome")
 print(f'Seu nome é {nome} .../n bom dia')
 
+NA=input("Digite uma letra")
+print('NA')
